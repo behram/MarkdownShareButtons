@@ -8,7 +8,6 @@
 [![Share on Twitter ](https://goo.gl/f9YQPI)](https://twitter.com/home?status=https://github.com/behramcelen/MarkdownShareButtons)
 [![Share on Google+ ](https://goo.gl/rhn4LN)](https://plus.google.com/share?url=https://github.com/behramcelen/MarkdownShareButtons)
 [![Share on Linkedin ](https://goo.gl/abj6gV)](https://www.linkedin.com/shareArticle?mini=true&url=https://github.com/behramcelen/MarkdownShareButtons)
-[![Email ](https://goo.gl/8T54SY)](mailto:behramcelen@gmail.com)
 [![Share on Reddit ](https://goo.gl/qQm9pn)](http://www.reddit.com/submit?url=https://github.com/behramcelen/MarkdownShareButtons)
 [![Share on Wordpress ](https://goo.gl/5v1tig)](http://wordpress.com/press-this.php?u=https://github.com/behramcelen/MarkdownShareButtons)
 [![Share on Tumblr ](https://goo.gl/qLOEtd)](http://www.tumblr.com/share/link?url=https://github.com/behramcelen/MarkdownShareButtons)
