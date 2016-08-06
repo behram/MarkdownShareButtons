@@ -27,3 +27,7 @@
 | Reddit        	   | [![Share on Reddit ](https://goo.gl/qQm9pn)](http://www.reddit.com/submit?url=http://behram.org) | ``` [![Share on Reddit ](https://goo.gl/qQm9pn)](http://www.reddit.com/submit?url=URI_GOES_HERE) ```
 | Tumblr        	   | [![Share on Tumblr ](https://goo.gl/qLOEtd)](http://www.tumblr.com/share/link?url=http://behram.org) | ``` [![Share on Tumblr ](https://goo.gl/qLOEtd)](http://www.tumblr.com/share/link?url=URI_GOES_HERE) ```
 | Wordpress        	   | [![Share on Wordpress ](https://goo.gl/5v1tig)](http://wordpress.com/press-this.php?u=http://behram.org) | ``` [![Share on Wordpress ](https://goo.gl/5v1tig)](http://wordpress.com/press-this.php?u=URI_GOES_HERE) ```
+
+
+> Black and Inversed themes will come. If you want contribute don't be shy :wink:
+> Already themes for Black and Inversed theme images in https://github.com/behramcelen/MarkdownShareButtons/tree/master/images
