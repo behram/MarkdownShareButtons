@@ -1,8 +1,8 @@
 # Markdown Share Button
 
-## Easy copy+paste share buttons for github and Markdown doc files. :tada:
+> Easy copy+paste share buttons for github and Markdown doc files. :tada:
 
-# Colored Theme
+## Colored Theme
 
 | Social Media       | Preview       | Get Code
 | -------------      | -------       | ----------
